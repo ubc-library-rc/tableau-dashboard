@@ -8,16 +8,18 @@ has_toc: false
 # Outline 
 
 | 0:00 | Introduction and setup 
-| 0:10 | [Visualization basics](introduction.html)
-| 0:25 | [Preparing your data](preparing_data.html)
-| 0:30 | [Introducing the Tableau interface](tableau-interface.html)   
+| 0:10 | [Dashboard basics](introduction.html)
+| 0:25 | [Connecting to data](connecting.html)
+| 0:30 | [Calculations](measures.html)   
 | _0:45_ | _Break_
-| 0:50 | [Creating graphs](creating-graphs.html)
-| 1:20 | [Saving your work](saving.html)
+| 0:50 | [Formatting](formatting.html)
+| 1:20 | [Assembling the dashboard](building.html)
 | 1:20 | Conclusion 
 
 _(Times and content may vary)_
 
-In this workshop we begin with a dataset in CSV format containing 360,554 rows of data from Statistics Canada about labour and employment in Canada for selected months in 2020. By the end you will be able to create simple, clear graphs from the data like this map of unemployment rates. 
+In this workshop we begin with two data files in CSV format with COVID-19 case and death counts by date and country. By the end you will learn to create an interactive dashboard like this one comparing COVID-19 cases by country.
+<br/>
+<hr/>
+<iframe seamless frameborder=0 src="https://public.tableau.com/views/Covid_sample_workbook/covid-19casesdashboard?:embed=yes&:display_count=yes&:showVizHome=no" width = '810' height = '830' scrolling='no' ></iframe>    
 
-<img src="images/sample-graph.png" alt="Tableau map example" />

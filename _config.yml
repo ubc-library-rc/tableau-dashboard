@@ -1,7 +1,7 @@
-title: Intro to data viz with Tableau 
+title: Designing dashboards with Tableau 
 remote_theme: ubc-library-rc/rc-theme
 color_scheme: rc
-github_repo_url: "https://github.com/ubc-library-rc/intro-data-viz/" 
+github_repo_url: "https://github.com/ubc-library-rc/dashboard-tableau/" 
 
 # license information for workshop content
 license_name: "Creative Commons Attribution 4.0 International License"
