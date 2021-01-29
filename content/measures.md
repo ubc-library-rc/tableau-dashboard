@@ -56,7 +56,10 @@ You can perform calculations and manipulate data in Tableau using _Calculated Fi
 <img style="margin-left:40px; margin-bottom:50px" src="images/calc.png"/>
 1. Right-click the _Cases_ measure and select _Create -> Calculated Field_
 2. Name the calculation _Death rate_
-3. Enter this in the calculation window: `SUM([Cases])/SUM([deaths].[Deaths])`
+3. Enter this in the calculation window: `SUM([deaths].[Deaths])/SUM([Cases])`
 <img style="margin-left:40px; margin-bottom:50px" src="images/calc-popup.png"/>
 4. Click _OK_, then locate the new _Death rate_ measure and add it to the table. 
+
+## Exercise 2: number formats
+The _Death rate_ is a percentage but is not formatted as one by default. Explore right-click menus for a way to change the number format.
 
