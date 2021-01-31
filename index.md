@@ -23,10 +23,6 @@ This workshop includes hands-on practice with Tableau software. To participate f
 Requests for the free _Tableau Desktop_ student license are verified first, the download is not immediate. If installing shortly before the workshop choose _Tableau Public_ instead.   
 {: .note}
 
-## Workshop slides
-- [HTML](slides/index.html)
-- [PDF](slides/tableau-dashboard-slides.pdf)
-
 ## Why Tableau? 
 This workshop uses _Tableau Public_ software to introduce data visualization concepts because it is freely available and accessible to beginners. 
 
