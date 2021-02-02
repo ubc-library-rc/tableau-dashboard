@@ -7,7 +7,7 @@ parent: Workshop content
 # Assembling the dashboard
 In Tableau a _Dashboard_ is a display that brings together the content from multiple sheets. A dashboard may also have additional text and images, and it can be configured with _Actions_ to make it more interactive.
 
-Assembling the pieces of a dashboard can take time, especially as you learn learn to adjust the size, position, formatting, and relationships among the components of your dashboard. 
+Assembling the pieces of a dashboard can take time, especially as you learn to adjust the size, position, formatting, and relationships among the components of your dashboard. 
 
 ### *1*{: .circle .circle-yellow} Add a dashboard
 1. From the top menu select _Dashboard -> New Dashboard_
@@ -17,7 +17,7 @@ Assembling the pieces of a dashboard can take time, especially as you learn lear
 <img style="margin-left:40px; margin-bottom:30px" src="images/dashboard.png"/>
 
 ## Dashboard tips
-The content, formatting, and behaviour of your dashboard will depend on its audience and purpose. There are many more features than we can cover in this workshop: here are some tips to get you started.
+The content, formatting, and behaviour choices for a dashboard will depend on its audience and purpose. There are many more features than we can cover in this workshop - here are some tips to get you started.
 
 ### Choosing the size
 In the top left of the screen are options for setting the dashboard size and checking how it will display on various interfaces (e.g. phones, tablets, laptops).

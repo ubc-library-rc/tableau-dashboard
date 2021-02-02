@@ -9,9 +9,9 @@ nav_order: 1
 
 At the end of this workshop, you will be able to:
 
-1. Recognize the characteristics of an effective visualization
-2. Format data for visualization
-3. Create a simple visualization using Tableau software
+1. Use more than one data source in the same dashboard 
+2. Apply calculations in your Tableau charts
+3. Assemble a simple dashboard using Tableau 
 
 ## Pre-workshop setup
 This workshop includes hands-on practice with Tableau software. To participate fully please do the following **before the workshop**
