@@ -54,7 +54,7 @@ You can perform calculations and manipulate data in Tableau, then save the outpu
 ### *3*{: .circle .circle-yellow} Create a measure for death _rate_
 1. In the list of measures and dimensions, right-click _Cases_ and select _Create -> Calculated Field_
 2. Name the calculation _Death rate_
-3. Enter this formula in the calculation window: `SUM([Deaths])/SUM([Cases])`, then click _OK_
+3. Enter this formula in the calculation window: `MAX([Deaths])/MAX([Cases])`, then click _OK_
 {: .step}
 
 <img style="margin-left:40px; margin-bottom:50px" src="images/calc-popup.png"/>
